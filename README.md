@@ -26,9 +26,9 @@ Hi, I'm raldisk from Philippines
   <img src="https://img.shields.io/static/v1?style=flat-square?style=for-the-badge&message=pandas&color=150458&logo=pandas&logoColor=FFFFFF&label=)">
 </p>
 
-<p>
-    <img height="175px" src="https://github-readme-stats-coral-phi-94.vercel.app/api/top-langs/?username=raldisk&layout=compact&theme=midnight-purple" />
-    <img height="175px" src="https://github-readme-stats-coral-phi-94.vercel.app/api?username=raldisk&custom_title=My%20Github%20Stats&hide=contribs,prs&show_icons=true&rank_icon=percentile&theme=tokyonight" />
+<p align="center">
+    <img height="150px" src="https://github-readme-stats-coral-phi-94.vercel.app/api/top-langs/?username=raldisk&layout=compact&theme=midnight-purple">
+    <img height="150px" src="https://github-readme-stats-coral-phi-94.vercel.app/api?username=raldisk&custom_title=My%20Github%20Stats&hide=contribs,prs&show_icons=true&rank_icon=percentile&theme=tokyonight">
 </p>
 
 ## WakaTime Stats
