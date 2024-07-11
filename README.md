@@ -25,19 +25,14 @@ Hi, I'm raldisk from Philippines
   <img src="https://img.shields.io/static/v1?style=flat-square?style=for-the-badge&message=VSCodium&color=2F80ED&logo=VSCodium&logoColor=FFFFFF&label=)">
   <img src="https://img.shields.io/static/v1?style=flat-square?style=for-the-badge&message=pandas&color=150458&logo=pandas&logoColor=FFFFFF&label=)">
 </p>
-<p aligh="left">
-  <img height="175px" src="https://github-readme-stats-coral-phi-94.vercel.app/api?username=Ryota-Kawamura&custom_title=Github%20Stats&show_icons=true&rank_icon=github&theme=midnight-purple" />
-  <img height="175px" src="https://github-readme-stats-coral-phi-94.vercel.app/api/top-langs/?username=Ryota-Kawamura&layout=compact&theme=midnight-purple" />
-</p
 
 
 
-<!--
 <p align="left">
-    <img height="175px" src="https://github-readme-stats-coral-phi-94.vercel.app/api/top-langs/?username=raldisk&theme=midnight-purple"/>
-    <img height="175px" src="https://github-readme-stats-coral-phi-94.vercel.app/api?username=raldisk&custom_title=My%20Github%20Stats&hide=contribs,prs&show_icons=true&rank_icon=percentile&theme=tokyonight"/>
+  <img height="175px" src="https://github-readme-stats-coral-phi-94.vercel.app/api/top-langs/?username=raldisk&layout=compact&theme=midnight-purple"/>
+  <img height="175px" src="https://github-readme-stats-coral-phi-94.vercel.app/api/top-langs/?username=raldisk&custom_title=My%20Github%20Stats&hide=contribs,prs&show_icons=true&rank_icon=percentile&theme=tokyonight"/>
 </p>
--->
+
 ## WakaTime Stats
 <figure>
 <img src="https://wakatime.com/share/@raldisk/75e9b2ac-fa93-42ed-ab70-cb6d920e0b5d.svg"></embed>
