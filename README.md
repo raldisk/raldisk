@@ -8,6 +8,9 @@ Hi, I'm raldisk from Philippines
   <img alt="JupyterLab" src="https://img.shields.io/badge/-JupyterLab-F37626?style=flat-square&logo=jupyter&logoColor=white" />
 </p>
 
+<p>
+  <img height="175px" src="https://github-readme-stats-coral-phi-94.vercel.app/api/top-langs/?username=raldisk&layout=compact&theme=midnight-purple" />
+</p>
 
 
 ### Where to find me
