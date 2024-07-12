@@ -33,12 +33,12 @@ Hi, I'm raldisk from Philippines
   &nbsp
   <img height="175px" src="https://github-readme-stats-coral-phi-94.vercel.app/api/top-langs/?username=raldisk&custom_title=My%20Github%20Stats&hide=contribs,prs&show_icons=true&rank_icon=percentile&theme=tokyonight"/>
 </p>
-
+<!--
 ## WakaTime Stats
 <figure>
 <img src="https://wakatime.com/share/@raldisk/75e9b2ac-fa93-42ed-ab70-cb6d920e0b5d.svg"></embed>
 </figure>
-
+>
 
 
 ### Where to find me
