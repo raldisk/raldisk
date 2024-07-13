@@ -40,8 +40,12 @@ Hello, I'm Herald from Philippines
   &nbsp
   <img height="175px" src="https://github-readme-stats-coral-phi-94.vercel.app/api/top-langs/?username=raldisk&custom_title=My%20Github%20Stats&hide=contribs,prs&show_icons=true&rank_icon=percentile&theme=tokyonight"/>
 </p>  
+
+<h2 align="center"> Github Trophies </h2>
+<img src="https://github-profile-trophy.vercel.app/?username=raldisk&theme=algolia&column=5">
+
 <div style="text-align: center;">
-  <h3>📫 You can reach me here:</h3>
+  <h2>📫 You can reach me here:</h2>
   <p>
     <a href="https://www.instagram.com/raldisk/" target="_blank">
       <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="margin-right: 10px;" />
