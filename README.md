@@ -6,10 +6,8 @@ Hello, I'm Herald from Philippines
 </h2>  
 
 
-<div style="width:80%; margin: 0 auto;">
-  <div style="width:100%;height:0;padding-bottom:75%;position:relative;">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3M5Ym94NXI0N2V1bHFlN2liZXhrNnFqYm5zNGdodm9qajFqcjdsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="80%" style="position:absolute" frameBorder="0">
-  </div>
+<div style="text-align: center;">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3M5Ym94NXI0N2V1bHFlN2liZXhrNnFqYm5zNGdodm9qajFqcjdsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" style="max-width: 100%; height: auto;">
 </div>
 <div style="text-align: center;">
   <h1>Technologies</h1>
