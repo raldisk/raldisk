@@ -12,7 +12,6 @@ Hello, I'm Herald from Philippines
 </div>
 
 
-- - - -
 <p align="center">
   <h1 align="center"> Technologies </h1>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square?style=for-the-badge&logo=html5&logoColor=white" />
@@ -37,18 +36,15 @@ Hello, I'm Herald from Philippines
   <img src="https://img.shields.io/static/v1?style=flat-square?style=for-the-badge&message=Vercel&color=000000&logo=Vercel&logoColor=FFFFFF&label=">
 </p>
 
- - - - -
 
 <h1 align="center"> My Github Stats </h1>
 
-- - - -
 <p align="left">
   <img height="175px" src="https://github-readme-stats-coral-phi-94.vercel.app/api/top-langs/?username=raldisk&layout=compact&theme=midnight-purple"/>
   &nbsp
   <img height="175px" src="https://github-readme-stats-coral-phi-94.vercel.app/api/top-langs/?username=raldisk&custom_title=My%20Github%20Stats&hide=contribs,prs&show_icons=true&rank_icon=percentile&theme=tokyonight"/>
 </p>  
 
- - - - - 
 <div style="text-align: center;">
   <h3>📫 You can reach me here:</h3>
   <p>
@@ -67,7 +63,6 @@ Hello, I'm Herald from Philippines
   </p>
 
 
-- - - - 
   <h2>WakaTime Stats</h2>
   <figure style="margin: 0 auto;">
     <img src="https://wakatime.com/share/@raldisk/8bc5aa7b-27f1-4034-abb2-808b57ae23df.svg" height="320" width="420" ></embed>
