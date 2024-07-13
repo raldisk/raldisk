@@ -35,12 +35,12 @@ Hello, I'm Herald from Philippines
 
 <h1 align="center"> My Github Stats </h1>
 
-<p align="left">
+<div style="text-align: center;">
   <img height="175px" src="https://github-readme-stats-coral-phi-94.vercel.app/api/top-langs/?username=raldisk&layout=compact&theme=midnight-purple"/>
-  &nbsp
   <img height="175px" src="https://github-readme-stats-coral-phi-94.vercel.app/api/top-langs/?username=raldisk&custom_title=My%20Github%20Stats&hide=contribs,prs&show_icons=true&rank_icon=percentile&theme=tokyonight"/>
-</p>  
-
+  <img height="175px" src="https://github-readme-streak-stats.herokuapp.com?user=raldisk&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="raldisk's streak" />
+</div>
+<br>
 <h2 align="center"> Github Trophies </h2>
 <img src="https://github-profile-trophy.vercel.app/?username=raldisk&theme=algolia&column=5">
 
