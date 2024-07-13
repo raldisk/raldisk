@@ -32,8 +32,6 @@ Hello, I'm Herald from Philippines
     <img src="https://img.shields.io/static/v1?style=flat-square?style=for-the-badge&message=Pandas&color=150458&logo=Pandas&logoColor=FFFFFF&label=" />
     <img src="https://img.shields.io/static/v1?style=flat-square?style=for-the-badge&message=Vercel&color=000000&logo=Vercel&logoColor=FFFFFF&label=">
   </p>
-</div>
-
 
 <h1 align="center"> My Github Stats </h1>
 
