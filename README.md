@@ -7,9 +7,9 @@ Hello, I'm Herald from Philippines
 
 <p align="center">
  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3M5Ym94NXI0N2V1bHFlN2liZXhrNnFqYm5zNGdodm9qajFqcjdsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Data Science GIF" width="400" /> 
- </p>
+</p>
 
-  <h1 align="center">Technologies</h1>
+<h1 align="center">Technologies</h1>
   <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square?style=for-the-badge&logo=css3&logoColor=white" />
@@ -32,6 +32,7 @@ Hello, I'm Herald from Philippines
     <img src="https://img.shields.io/static/v1?style=flat-square?style=for-the-badge&message=Pandas&color=150458&logo=Pandas&logoColor=FFFFFF&label=" />
     <img src="https://img.shields.io/static/v1?style=flat-square?style=for-the-badge&message=Vercel&color=000000&logo=Vercel&logoColor=FFFFFF&label=">
   </p>
+</div>
 
 
 <h1 align="center"> My Github Stats </h1>
@@ -57,7 +58,7 @@ Hello, I'm Herald from Philippines
     <img alt="Kaggle" src="https://img.shields.io/static/v1?style=for-the-badge&message=Kaggle&color=222222&logo=Kaggle&logoColor=20BEFF&label=)"/>
     </a>
   </p>
-  <h2>WakaTime Stats</h2>
+  <h2 align="center">WakaTime Stats</h2>
   <figure style="margin: 0 auto;">
     <img src="https://wakatime.com/share/@raldisk/8bc5aa7b-27f1-4034-abb2-808b57ae23df.svg" height="320" width="420" ></embed>
   </figure>
