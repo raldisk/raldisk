@@ -7,7 +7,9 @@ Hello, I'm Herald from Philippines
 
 
 <div style="text-align: center;">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3M5Ym94NXI0N2V1bHFlN2liZXhrNnFqYm5zNGdodm9qajFqcjdsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" style="max-width: 100%; height: auto;">
+  <div style="display: inline-block;">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3M5Ym94NXI0N2V1bHFlN2liZXhrNnFqYm5zNGdodm9qajFqcjdsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" style="max-width: 100%; height: auto;">
+  </div>
 </div>
 <div style="text-align: center;">
   <h1>Technologies</h1>
