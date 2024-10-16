@@ -62,6 +62,6 @@ Hello, I'm Herald from Philippines
   </p>
   <h2 align="center">WakaTime Stats</h2>
   <figure style="margin: 0 auto;">
-    <img src="https://wakatime.com/share/@raldisk/8bc5aa7b-27f1-4034-abb2-808b57ae23df.svg" height="320" width="420" ></embed>
+    <img src="https://wakatime.com/share/@raldisk/b2a98b87-e912-4747-bdeb-3d662e1a8729.svg" height="320" width="420" ></embed>
   </figure>
 </div>
