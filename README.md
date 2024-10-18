@@ -1,14 +1,9 @@
 <h1 align="center">
-Hello, I'm Herald from Philippines
+Hello, I'm Herald 
 </h1>
-<h2 align="center">
- Pythonista 🐍 | Data Evangelist 📊 | Distributed Systems 🖧
-</h2>  
-
 <p align="center">
  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3M5Ym94NXI0N2V1bHFlN2liZXhrNnFqYm5zNGdodm9qajFqcjdsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Data Science GIF" width="400" /> 
 </p>
-
 <h1 align="center">Technologies</h1>
   <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square?style=for-the-badge&logo=html5&logoColor=white" />
@@ -34,16 +29,13 @@ Hello, I'm Herald from Philippines
   </p>
 
 <h1 align="center"> My Github Stats </h1>
-
 <div style="text-align: center;">
   <img height="175px" src="https://github-readme-stats-coral-phi-94.vercel.app/api/top-langs/?username=raldisk&layout=compact&theme=midnight-purple"/>
-  <img height="175px" src="https://github-readme-stats-coral-phi-94.vercel.app/api/top-langs/?username=raldisk&custom_title=My%20Github%20Stats&hide=contribs,prs&show_icons=true&rank_icon=percentile&theme=tokyonight"/>
-  <img height="175px" src="https://github-readme-streak-stats.herokuapp.com?user=raldisk&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="raldisk's streak" />
+ <!--  <img height="175px" src="https://github-readme-stats-coral-phi-94.vercel.app/api/top-langs/?username=raldisk&custom_title=My%20Github%20Stats&hide=contribs,prs&show_icons=true&rank_icon=percentile&theme=tokyonight"/>
+  <img height="175px" src="https://github-readme-streak-stats.herokuapp.com?user=raldisk&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="raldisk's streak" /> -->
 </div>
-<br>
-<h2 align="center"> Github Trophies </h2>
-<img src="https://github-profile-trophy.vercel.app/?username=raldisk&theme=algolia&column=5">
-
+<!-- <h2 align="center"> Github Trophies </h2>
+<img src="https://github-profile-trophy.vercel.app/?username=raldisk&theme=algolia&column=5"> -->
 <div style="text-align: center;">
   <h2>📫 You can reach me here:</h2>
   <p>
@@ -60,8 +52,8 @@ Hello, I'm Herald from Philippines
     <img alt="Kaggle" src="https://img.shields.io/static/v1?style=for-the-badge&message=Kaggle&color=222222&logo=Kaggle&logoColor=20BEFF&label=)"/>
     </a>
   </p>
-  <h2 align="center">WakaTime Stats</h2>
+<!--   <h2 align="center">WakaTime Stats</h2>
   <figure style="margin: 0 auto;">
-    <img src="https://wakatime.com/share/@raldisk/b2a98b87-e912-4747-bdeb-3d662e1a8729.svg" height="320" width="420" ></embed>
-  </figure>
+    <img src="https://wakatime.com/share/@raldisk/8bc5aa7b-27f1-4034-abb2-808b57ae23df.svg" height="300" width="330" ></embed>
+  </figure> -->
 </div>
