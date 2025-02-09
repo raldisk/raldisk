@@ -28,12 +28,11 @@
 <img src="https://github-readme-stats-coral-phi-94.vercel.app/api/top-langs/?username=raldisk&size_weight=0.5&count_weight=0.5&layout=compact&theme=midnight-purple">
 </details>
 
-
+<details>
+<summary> Contacts </summary>
 <!-- <h2 align="center"> Github Trophies </h2>
 <img src="https://github-profile-trophy.vercel.app/?username=raldisk&theme=algolia&column=5"> -->
-<div style="text-align: center;">
-  <h2>📫 You can reach me here:</h2>
-  <p>
+<div style="text-align: center;">  <p>
     <a href="https://www.instagram.com/raldisk/" target="_blank">
       <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="margin-right: 10px;" />
     </a>
@@ -46,6 +45,8 @@
     <a href="https://www.kaggle.com/heraldcollamar" target="_blank">
     <img alt="Kaggle" src="https://img.shields.io/static/v1?style=for-the-badge&message=Kaggle&color=222222&logo=Kaggle&logoColor=20BEFF&label=)"/>
     </a>
+    <a href="heraldisk@gmail.com">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=">
   </p>
 <!--   <h2 align="center">WakaTime Stats</h2>
   <figure style="margin: 0 auto;">
