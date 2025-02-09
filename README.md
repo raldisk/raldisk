@@ -31,17 +31,9 @@
   <img height="175px" src="https://github-readme-streak-stats.herokuapp.com?user=raldisk&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="raldisk's streak" />
 </div> -->
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats-coral-phi-94.vercel.app/api/top-langs/?username=raldisk&layout=compact&theme=midnight-purple"
-       style="flex: 1 1 calc(33.33% - 10px); max-width: 100%; height: auto;" />
+| ![Top Languages](https://github-readme-stats-coral-phi-94.vercel.app/api/top-langs/?username=raldisk&layout=compact&theme=midnight-purple) | ![GitHub Stats](https://github-readme-stats-coral-phi-94.vercel.app/api/top-langs/?username=raldisk&custom_title=My%20Github%20Stats&hide=contribs,prs&show_icons=true&rank_icon=percentile&theme=tokyonight) | ![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=raldisk&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D) |
+|---|---|---|
 
-  <img src="https://github-readme-stats-coral-phi-94.vercel.app/api/top-langs/?username=raldisk&custom_title=My%20Github%20Stats&hide=contribs,prs&show_icons=true&rank_icon=percentile&theme=tokyonight"
-       style="flex: 1 1 calc(33.33% - 10px); max-width: 100%; height: auto;" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=raldisk&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"
-       alt="raldisk's streak"
-       style="flex: 1 1 calc(33.33% - 10px); max-width: 100%; height: auto;" />
-</div>
 
 
 </details>
