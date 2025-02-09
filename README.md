@@ -45,7 +45,7 @@
     <a href="https://www.kaggle.com/heraldcollamar" target="_blank">
     <img alt="Kaggle" src="https://img.shields.io/static/v1?style=for-the-badge&message=Kaggle&color=222222&logo=Kaggle&logoColor=20BEFF&label=)"/>
     </a>
-    <a href="mailto:heraldisk@gmail.com" target="_blank">
+    <a href="mailto:heraldisk@gmail.com">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=">
   </p>
 <!--   <h2 align="center">WakaTime Stats</h2>
