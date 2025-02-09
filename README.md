@@ -22,12 +22,31 @@
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Obsidian&color=7C3AED&logo=Obsidian&logoColor=FFFFFF&label=">
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=DataGrip&color=000000&logo=DataGrip&logoColor=FFFFFF&label=">
 </details>
+
+<details>
 <h1 align="center"> My Github Stats </h1>
-<div style="text-align: center;">
+<!-- <div style="text-align: center;">
   <img height="175px" src="https://github-readme-stats-coral-phi-94.vercel.app/api/top-langs/?username=raldisk&layout=compact&theme=midnight-purple"/>
  <img height="175px" src="https://github-readme-stats-coral-phi-94.vercel.app/api/top-langs/?username=raldisk&custom_title=My%20Github%20Stats&hide=contribs,prs&show_icons=true&rank_icon=percentile&theme=tokyonight"/>
   <img height="175px" src="https://github-readme-streak-stats.herokuapp.com?user=raldisk&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="raldisk's streak" />
+</div> -->
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats-coral-phi-94.vercel.app/api/top-langs/?username=raldisk&layout=compact&theme=midnight-purple"
+       style="flex: 1 1 calc(33.33% - 10px); max-width: 100%; height: auto;" />
+
+  <img src="https://github-readme-stats-coral-phi-94.vercel.app/api/top-langs/?username=raldisk&custom_title=My%20Github%20Stats&hide=contribs,prs&show_icons=true&rank_icon=percentile&theme=tokyonight"
+       style="flex: 1 1 calc(33.33% - 10px); max-width: 100%; height: auto;" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=raldisk&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"
+       alt="raldisk's streak"
+       style="flex: 1 1 calc(33.33% - 10px); max-width: 100%; height: auto;" />
 </div>
+
+
+</details>
+
+
 <!-- <h2 align="center"> Github Trophies </h2>
 <img src="https://github-profile-trophy.vercel.app/?username=raldisk&theme=algolia&column=5"> -->
 <div style="text-align: center;">
