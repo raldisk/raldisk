@@ -1,6 +1,3 @@
-<h1 align="center">
-Hello, I'm Herald 
-</h1>
 <p align="center">
  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3M5Ym94NXI0N2V1bHFlN2liZXhrNnFqYm5zNGdodm9qajFqcjdsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Data Science GIF" width="400" /> 
 </p>
@@ -24,15 +21,12 @@ Hello, I'm Herald
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=PyCharm&color=000000&logo=PyCharm&logoColor=FFFFFF&label=">
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Obsidian&color=7C3AED&logo=Obsidian&logoColor=FFFFFF&label=">
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=DataGrip&color=000000&logo=DataGrip&logoColor=FFFFFF&label=">
-
 </details>
-
-
 <h1 align="center"> My Github Stats </h1>
 <div style="text-align: center;">
   <img height="175px" src="https://github-readme-stats-coral-phi-94.vercel.app/api/top-langs/?username=raldisk&layout=compact&theme=midnight-purple"/>
- <!--  <img height="175px" src="https://github-readme-stats-coral-phi-94.vercel.app/api/top-langs/?username=raldisk&custom_title=My%20Github%20Stats&hide=contribs,prs&show_icons=true&rank_icon=percentile&theme=tokyonight"/>
-  <img height="175px" src="https://github-readme-streak-stats.herokuapp.com?user=raldisk&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="raldisk's streak" /> -->
+ <img height="175px" src="https://github-readme-stats-coral-phi-94.vercel.app/api/top-langs/?username=raldisk&custom_title=My%20Github%20Stats&hide=contribs,prs&show_icons=true&rank_icon=percentile&theme=tokyonight"/>
+  <img height="175px" src="https://github-readme-streak-stats.herokuapp.com?user=raldisk&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="raldisk's streak" />
 </div>
 <!-- <h2 align="center"> Github Trophies </h2>
 <img src="https://github-profile-trophy.vercel.app/?username=raldisk&theme=algolia&column=5"> -->
