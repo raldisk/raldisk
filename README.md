@@ -21,6 +21,8 @@
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=PyCharm&color=000000&logo=PyCharm&logoColor=FFFFFF&label=">
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Obsidian&color=7C3AED&logo=Obsidian&logoColor=FFFFFF&label=">
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=DataGrip&color=000000&logo=DataGrip&logoColor=FFFFFF&label=">
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Adobe&color=FF0000&logo=Adobe&logoColor=FFFFFF&label=">
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=">
 </details>
 
 <details>
@@ -53,4 +55,4 @@
     <img src="https://wakatime.com/share/@raldisk/8bc5aa7b-27f1-4034-abb2-808b57ae23df.svg" height="300" width="330" ></embed>
   </figure> -->
 </div>
-<img src="https://wakatime.com/share/@raldisk/57090599-1eb2-43bb-9011-96fb58ca9ceb.svg" height="300" width="330">
+<!-- <img src="https://wakatime.com/share/@raldisk/57090599-1eb2-43bb-9011-96fb58ca9ceb.svg" height="300" width="330"> -->
