@@ -31,7 +31,7 @@
   <img height="175px" src="https://github-readme-streak-stats.herokuapp.com?user=raldisk&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="raldisk's streak" />
 </div> -->
 
-| ![Top Languages](https://github-readme-stats-coral-phi-94.vercel.app/api/top-langs/?username=raldisk&layout=compact&theme=midnight-purple) | ![GitHub Stats](https://github-readme-stats-coral-phi-94.vercel.app/api/top-langs/?username=raldisk&custom_title=My%20Github%20Stats&hide=contribs,prs&show_icons=true&rank_icon=percentile&theme=tokyonight) | ![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=raldisk&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D) |
+| ![Top Languages](https://github-readme-stats-coral-phi-94.vercel.app/api/top-langs/?username=raldisk&size_weight=0.5&count_weight=0.5&layout=compact&theme=midnight-purple) | ![GitHub Stats](https://github-readme-stats-coral-phi-94.vercel.app/api/top-langs/?username=raldisk&size_weight=0.5&count_weight=0.5&custom_title=My%20Github%20Stats&hide=contribs,prs&show_icons=true&rank_icon=percentile&theme=tokyonight) | ![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=raldisk&size_weight=0.5&count_weight=0.5&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D) |
 |---|---|---|
 
 
@@ -62,3 +62,4 @@
     <img src="https://wakatime.com/share/@raldisk/8bc5aa7b-27f1-4034-abb2-808b57ae23df.svg" height="300" width="330" ></embed>
   </figure> -->
 </div>
+<img src="https://wakatime.com/share/@raldisk/57090599-1eb2-43bb-9011-96fb58ca9ceb.svg" height="300" width="330">
