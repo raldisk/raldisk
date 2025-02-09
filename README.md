@@ -12,7 +12,20 @@ Hello, I'm Herald
     <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square?style=for-the-badge&logo=git&logoColor=white" />
 </details>
+<details>
+<summary>Systems </summary>
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Android&color=34A853&logo=Android&logoColor=FFFFFF&label=">
+<img src="https://img.shields.io/badge/Windows-087cd5?style=for-the-badge&logo=windows&logoColor=white">
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Debian&color=A81D33&logo=Debian&logoColor=FFFFFF&label">
+</details>
+<details>
+<summary> Softwares </summary>
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=VSCodium&color=2F80ED&logo=VSCodium&logoColor=FFFFFF&label=">
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=PyCharm&color=000000&logo=PyCharm&logoColor=FFFFFF&label=">
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Obsidian&color=7C3AED&logo=Obsidian&logoColor=FFFFFF&label=">
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=DataGrip&color=000000&logo=DataGrip&logoColor=FFFFFF&label=">
 
+</details>
 
 
 <h1 align="center"> My Github Stats </h1>
