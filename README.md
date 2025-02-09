@@ -25,9 +25,7 @@
 
 <details>
 <summary> Github Stats </summary>
-
-| ![Top Languages](https://github-readme-stats-coral-phi-94.vercel.app/api/top-langs/?username=raldisk&size_weight=0.5&count_weight=0.5&layout=compact&theme=midnight-purple) | ![GitHub Stats](https://github-readme-stats-coral-phi-94.vercel.app/api/top-langs/?username=raldisk&size_weight=0.5&count_weight=0.5&custom_title=My%20Github%20Stats&hide=contribs,prs&show_icons=true&rank_icon=percentile&theme=tokyonight) | ![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=raldisk&size_weight=0.5&count_weight=0.5&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D) |
-|---|---|---|
+<img src="https://github-readme-stats-coral-phi-94.vercel.app/api/top-langs/?username=raldisk&size_weight=0.5&count_weight=0.5&layout=compact&theme=midnight-purple">
 </details>
 
 
