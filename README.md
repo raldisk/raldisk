@@ -35,9 +35,9 @@
 <!-- <h2 align="center"> Github Trophies </h2>
 <img src="https://github-profile-trophy.vercel.app/?username=raldisk&theme=algolia&column=5"> -->
 <div style="text-align: center;">  <p>
-    <a href="https://www.instagram.com/raldisk/" target="_blank">
+   <!--  <a href="https://www.instagram.com/raldisk/" target="_blank">
       <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="margin-right: 10px;" />
-    </a>
+    </a> -->
     <a href="https://www.datacamp.com/portfolio/raldisk" target="_blank">
       <img alt="Datacamp" src="https://img.shields.io/static/v1?style=for-the-badge&message=DataCamp&color=222222&logo=DataCamp&logoColor=03EF62&label=" style="margin-right: 10px;" />
     </a>
